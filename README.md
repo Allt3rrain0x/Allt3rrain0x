@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Allt3rrain0x
-- Security Professional with extensive technical expertise across diverse security domains, certified in CISSP, CEH, and other relevant certifications, with hands-on cloud experience.
+- Security Professional with extensive technical expertise across diverse security domains. Certified in CISSP, CEH, cloud and other relevant certifications, with hands-on cloud experience for the banking and financial sector.
 - 👀 I’m interested in learning by doing
-- 🌱 I’m currently learning about ICS
+- 🌱 I’m currently learning more about ICS
 - ⚡ I’m looking to collaborate on Traditional & novels ML models applications
 
 <!---
