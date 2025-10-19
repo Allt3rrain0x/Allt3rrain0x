@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Allt3rrain0x
+- 👋 Hi, I’m @Allt3rrain0x (a.k.a Einstein R.)
 - Security Professional with extensive technical expertise across diverse security domains. Certified in CISSP, CEH, cloud and other relevant certifications, with hands-on cloud experience for the banking and financial sector.
 - 👀 I’m interested in learning by doing
 - 🌱 I’m currently learning more about ICS
